@@ -1,2 +1,2 @@
 # stage_bedrijven
-Gewoon al die stage shit
+Snelle uitleg van de ordering. Gewoon een .txt bestandje per bedrijf er in pompen
